@@ -1,0 +1,1 @@
+var name=prompt("zehmet olmasa adinizi yazin");

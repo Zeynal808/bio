@@ -1,0 +1,90 @@
+body
+{
+    background-image: url(../images/concrete_seamless.png);
+}
+.nav-item{
+    margin-left: 40px;
+    font-size: 20px;
+}
+.navbar-nav{
+    margin-left: auto;
+    border: 1px solid red;
+    
+}
+.logo{
+    
+    
+    text-align: center;
+    margin-left: 100px;
+    padding: 10px;
+    background-color:#1a9177;
+    text-decoration: none;
+   color: white;
+    font-size: xx-large;
+    text-align: center;
+    position:absolute;
+   
+}
+.container-fluid{
+    border: 1px solid green;
+    padding: 15px;
+    display: inline-flex;
+    }
+#aboutme
+{
+    display: block;
+    color: #1a9177;
+}
+#Aboutc{
+    background-color: white;
+    margin-top: 40px;
+
+}
+#About2
+{
+    background-color: white;
+    margin-top: 40px;
+    
+}
+#Abouth2
+{
+    color: #1a9177; 
+}
+#footerA{
+    padding:40px ;
+    background-color:gray;
+    text-align: center;
+    height: 70px;
+    margin-top: 20px;
+    
+}
+#footerp{
+    vertical-align: center;
+    color: white;
+}
+
+#narahat{
+    margin-top: 40px;
+}
+#containerport
+{
+    background-color: white;
+    margin-top: 40px;
+}
+#sekil1{
+    margin-bottom: 40px;
+}
+#mesafe{
+    background-image: url(../images/concrete_seamless.png);
+}
+#footerc
+{
+    padding:40px ;
+    background-color:gray;
+    text-align: center;
+    height: 70px;
+    margin-top: 450px;
+}
+#h1c{
+  color: #1a9177 ;
+}
